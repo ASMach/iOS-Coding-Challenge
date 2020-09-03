@@ -99,7 +99,7 @@ For your convenience, below is a sample JSON response from the Best Buy Products
     "queryTime": "0.061",
     "totalTime": "0.070",
     "partial": false,
-    "canonicalUrl": "/v1/products(search=\"pixel\"&search=\"pen\")?show=name,upc,salePrice,image,longDescription&format=json&apiKey=7Ob7hGyGMBma1ilGiq7tc2XZ",
+    "canonicalUrl": "/v1/products(search=\"pixel\"&search=\"pen\")?show=name,upc,salePrice,image,longDescription&format=json&apiKey=YOUR_API_KEY",
     "products": [
         {
             "name": "Google - Pixelbook Pen - Midnight Blue",
